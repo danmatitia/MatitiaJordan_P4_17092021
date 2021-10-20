@@ -133,7 +133,7 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-    color: rgba(255, 255, 255, .6);
+    color: black;
 }
 
 .d-bloc .a-btn:hover,
@@ -150,7 +150,7 @@ a:hover {
 .d-bloc h5 a:hover,
 .d-bloc h6 a:hover,
 .d-bloc p a:hover {
-    color: rgba(255, 255, 255, 1);
+    color: black;
 }
 
 .d-bloc .navbar-toggle .icon-bar {
@@ -654,6 +654,7 @@ a {
     color: black!important;
 }
 
+
 .container {
     max-width: 1000px;
 }
@@ -813,16 +814,16 @@ h4 {
 }
 
 .bg-dots-bg {
-    background-image: url("img/dots-bg.WebP");
+    background-image: url("img/dots-bg.png");
 }
 
 .bg-banniere {
-    background-image: url("img/la-chouette-agence-banniere.WebP");
+    background-image: url("img/la-chouette-agence-banniere.png");
     width: 100%;
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.WebP");
+    background-image: url("img/image-de-presentation.png");
 }
 
 .text-citations {
