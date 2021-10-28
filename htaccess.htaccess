@@ -6,4 +6,3 @@
     ExpiresByType text/html "access plus 900 seconds"
 
     ExpiresByType image/webp "access plus 900 seconds"
-    Add type image/ico.ico
